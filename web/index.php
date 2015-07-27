@@ -20,7 +20,7 @@
     <!--content-->  
     <div class="container">
         <div class="row">
-            <div class="col-lg-4 col-md-4 col-sm-4">
+            <div class="col-lg-3 col-md-3 col-sm-3">
                 <div class="thumb-pad1 maxheight wow fadeInLeft" data-wow-delay="0.4s">
                     <div class="badge"><img src="img/page1_icon1.png" alt=""></div>
                     <div class="thumbnail">
@@ -32,7 +32,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 wow fadeInLeft" data-wow-delay="0.2s">
+            <div class="col-lg-3 col-md-3 col-sm-3 wow fadeInLeft" data-wow-delay="0.3s">
                 <div class="thumb-pad1 maxheight">
                     <div class="badge"><img src="img/page1_icon2.png" alt=""></div>
                     <div class="thumbnail">
@@ -46,7 +46,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-sm-4 wow fadeInLeft">
+            <div class="col-lg-3 col-md-3 col-sm-3 wow fadeInLeft" data-wow-delay="0.2s">
                 <div class="thumb-pad1 maxheight">
                     <div class="badge"><img src="img/page1_icon3.png" alt=""></div>
                     <div class="thumbnail">
@@ -56,6 +56,20 @@
                                Quando o seu produto ou estabelecimento é certificado Kosher, os clientes sabem que você cumpre uma política rigorosa de leis da comida kosher, incluindo limpeza, pureza e qualidade. A Mejer é certificada em seu parque fabril e em suas carretas, preocupando-se com a qualidade de seus produtos, proporcionando a seus clientes a garantia de um produto final com qualidade.
                             </p>
                             <p><a href="kosher.php" class="btn-default btn1">Leia mais</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-3 wow fadeInLeft">
+                <div class="thumb-pad1 maxheight">
+                    <div class="badge"><img src="img/page1_icon7.png" alt=""></div>
+                    <div class="thumbnail">
+                        <div class="caption">
+                            <p class="title">CERTIFICADO DE SUSTENTABILIDADE</p>
+                            <p>
+                                Enquadrou-se nos requisitos e procedimentos operacionais quanto ao compromisso de responsabilidade sócio - econômica - ambiental estabelecido pelo Conselho de Agronegócio do Estado do Pará.
+                            </p>
+                            <p><a href="certificado_sustentabilidade.php" class="btn-default btn1">Leia Mais</a></p>
                         </div>
                     </div>
                 </div>
@@ -145,6 +159,7 @@
         </div>
     </div>-->
 </div>
+
 <!--footer-->
 <?php include 'footer.php';?>
 </body>
