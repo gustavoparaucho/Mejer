@@ -8,7 +8,7 @@
             return 'class="active"';
         } elseif ($menu == "processo"  && stripos($_SERVER['PHP_SELF'], "processo") != FALSE) {
             return 'class="active"';
-        } elseif ($menu == "clientes" && stripos($_SERVER['PHP_SELF'], "clientes") != FALSE) {
+        } elseif ($menu == "cliente" && stripos($_SERVER['PHP_SELF'], "cliente") != FALSE) {
             return 'class="active"';
         } elseif ($menu == "fale" && stripos($_SERVER['PHP_SELF'], "fale") != FALSE) {
             return 'class="active"';
@@ -27,7 +27,7 @@
                 <li <?php echo isActive("sobre"); ?>><a href="sobre.php">Sobre</a></li>
                 <li <?php echo isActive("produtos"); ?>><a href="produto.php">Produtos</a></li>
                 <li <?php echo isActive("processo"); ?>><a href="processo.php">Processo Produtivo</a></li>
-                <li <?php echo isActive("clientes"); ?>><a href="cliente.php">Clientes</a></li>
+                <li <?php echo isActive("cliente"); ?>><a href="cliente.php">Clientes</a></li>
                 <li <?php echo isActive("fale"); ?>><a href="fale-conosco.php">Fale Conosco</a></li>
             </ul>
         </nav>
