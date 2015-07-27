@@ -14,7 +14,7 @@
     <div class="row">
         <div class="col-md-4">
             <div class="thumb-pad">
-                <a href="#" class="thumbnail cliente"><img src="img/anastacio.jpg" alt=""></a>
+                <a href="#" class="thumbnail cliente"><img src="img/maxfood.png" alt=""></a>
             </div>
         </div>
         <div class="col-md-4">
@@ -31,7 +31,7 @@
 	<div class="row">
 		<div class="col-md-4">
 			<div class="thumb-pad">
-				<a href="#" class="thumbnail cliente"><img src="img/bunge.jpg" alt=""></a>
+				<a href="#" class="thumbnail cliente"><img src="img/gsa.png" alt=""></a>
 			</div>
 		</div>
 		<div class="col-md-4">
