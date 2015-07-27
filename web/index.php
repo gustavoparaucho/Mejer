@@ -102,7 +102,7 @@
             </div>
         </div>
     </div>
-    <div class="thumb-box3">
+    <div style="display: none;" class="thumb-box3">
         <div class="container">
             <h2 class="center">Notícias</h2>
             <div class="row">
